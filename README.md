@@ -1,2 +1,2 @@
 # jsdavids.github.io
-CV and personal webpage
+This is a simple CV and personal webpage to showcase my CV, personal projects, and interests.
