@@ -37,15 +37,18 @@ University of California, Santa Cruz -- Computer Science B.S.
 
 ### Personal Interests
 
-I read, and have read, a LOT of manga over the years. It's one of the driving interests that led me to compete in Japan Bowl in high school, pursue translation as a hobby, and (currently) explore manga, sound effects, and the Japanese language as field of research.
+I read, and have read, a LOT of manga over the years. It's one of the driving interests that led me to compete in Japan Bowl in high school, pursue translation as a hobby, and (currently) explore manga, sound effects, and the Japanese language as a field of study within NLP and ML.
 
-- Read some more [here](pages/manga.html)
+- Read some more about my current reading and recommendations [here](pages/manga.html)
 
 
 ### See Also
 - [West Valley Community Services](https://www.wvcommunityservices.org/)
+I was previously a volunteer at the food pantry at WVCS. Volunteering through their organization was not only a fulfilling way to interact with my local community, but it also gave me opportunities to speak Mandarin in natural settings and flex my socialization muscles in a post Covid-19 world. In addition to the food pantry, they provide lots of other services to the community.
 - [Starbucks Workers United](https://sbworkersunited.org/our-strike/)
+As a current barista at Starbucks. Union participation and labor relations 
 - [j-ono](https://j-ono.com/)
+J-Ono has been a great resource to me when translating onomatopoeia and mimetic words. They include the type of sound word as well as examples in manga, _and_ they have the data they use available online on GitHub.
 
 ---
 
