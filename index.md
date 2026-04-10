@@ -10,7 +10,7 @@ One of the main ways my interest in language, ML, and manga overlaps is in my cu
 
 ### My CV
 
-- [My Full CV](cv.html)
+- [My Full CV](pages/cv.html)
 
 ### Relevant Coursework
 
@@ -39,7 +39,7 @@ University of California, Santa Cruz -- Computer Science B.S.
 
 I read, and have read, a LOT of manga over the years. It's one of the driving interests that led me to compete in Japan Bowl in high school, pursue translation as a hobby, and (currently) explore manga, sound effects, and the Japanese language as field of research.
 
-- Read some more [here](manga.html)
+- Read some more [here](pages/manga.html)
 
 
 ### See Also
