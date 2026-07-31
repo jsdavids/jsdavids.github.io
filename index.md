@@ -11,7 +11,7 @@ I am exploring the ways language, computer science, and manga overlap in my curr
 ### Jake Sung Davidson
 <p>
   <span style="float: left;">jsdavids@ucsc.edu</span>
-  <span style="float: right;">Santa Cruz, CA</span>
+  <span style="float: right;">San Jose, CA</span>
 </p>
 <div style="clear: both;"></div>
 
@@ -19,6 +19,11 @@ I am exploring the ways language, computer science, and manga overlap in my curr
 <p>
   <span style="float: left;"><a href="https://www.linkedin.com/in/jake-davidson-8123901b0/">LinkedIn</a></span>
   <span style="float: right;"><a href="https://github.com/jsdavids">GitHub</a></span>
+</p>
+<div style="clear: both;"></div>
+
+<p>
+  <span style="float: left;"><a href="https://drive.google.com/file/d/1at8DBtAnnAVV6n3AFufHi3rV_BFSL2Nf/view?usp=drive_link">Unofficial Transcripts as of July 30, 2026</a></span>
 </p>
 <div style="clear: both;"></div>
 
