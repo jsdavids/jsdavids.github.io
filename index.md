@@ -4,7 +4,7 @@ title: jsdavids (a homepage)
 description: Hello! You've reached the github homepage for Jake, thanks for checking out this page. This is a simple homepage to showcase some of my recent projects and interests.
 ---
 
-Hello! You've reached the homepage for Jake, thanks for checking out this page. I'm a Computer Science B.S. student at University of California, Santa Cruz, preparing to graduate in June of 2026. This is a homepage to showcase some of my CV, recent projects, and my interests in NLP, MT, and OCR. 
+Hello! You've reached the homepage for Jake, thanks for checking out this page. I'm a Natural Language Processing M.S. student at University of California, Santa Cruz. This is a homepage to showcase my CV and recent projects, as well as my interests in NLP, MT, and OCR. 
 
 I am exploring the ways language, computer science, and manga overlap in my current project of translating the sound effects in manga. 
 
@@ -23,7 +23,7 @@ I am exploring the ways language, computer science, and manga overlap in my curr
 <div style="clear: both;"></div>
 
 <p>
-  <span style="float: left;"><a href="https://drive.google.com/file/d/1at8DBtAnnAVV6n3AFufHi3rV_BFSL2Nf/view?usp=drive_link">Unofficial Transcripts as of July 30, 2026</a></span>
+  <span style="float: left;"><a href="https://drive.google.com/file/d/1yjjIG4QmuP0YQbWPfEhnjCJ7kcpfRmiO/view?usp=sharing">Unofficial Transcripts as of October 15th, 2026</a></span>
 </p>
 <div style="clear: both;"></div>
 
@@ -33,8 +33,16 @@ I am exploring the ways language, computer science, and manga overlap in my curr
   <span style="float: right;">1156 High St, Santa Cruz, CA 95064</span>
 </p>
 <div style="clear: both;"></div>
+- Natural Language Processing M.S.
+- Expected Graduation: Spring 2028
+
+<p>
+  <span style="float: left;">University of California, Santa Cruz</span>
+  <span style="float: right;">1156 High St, Santa Cruz, CA 95064</span>
+</p>
+<div style="clear: both;"></div>
 - Computer Science B.S.
-- Expected Graduation: Spring 2026
+- Degree Conferred: June 2026
 
 <p>
   <span style="float: left;">De Anza College</span>
@@ -43,6 +51,11 @@ I am exploring the ways language, computer science, and manga overlap in my curr
 <div style="clear: both;"></div>
 
 ### Relevant Coursework
+University of California, Santa Cruz -- Natural Language Processing M.S.
+- Natural Language Processing 1 (NLP 201)
+- Data Science and Machine Learning Fundamentals (NLP 220)
+- Linguistic Models of Syntax (NLP 270)
+
 University of California, Santa Cruz -- Computer Science B.S.
 - Discrete Math (CSE 16)
 - Introduction to Data Structures and Algorithms (CSE 101)
@@ -58,22 +71,33 @@ University of California, Santa Cruz -- Computer Science B.S.
 - Predicting Words with Numbers (LING 80L)
 
 ### Personal Projects
+- Pokémon Move Recommender (Ongoing)
+    - Reinforcement learning Pokémon move recommender that uses a thin LLM wrapper to interface between users and relevant Pokémon tools.
+    - Used Ollama to harness a preferred Large Language Models (Bonsai 2 27B for myself) to select tools for the user through MCP
+    - Used PyTorch and NumPy to recommend moves according to a learned policy, and the battle log helps differentiate different battles and maintain context bloat across long sessions.
+
 - Automated Manga Sound Effect Translation (2025-2026)
-    - Combines computer vision algorithms with context extraction to generate context guided translations of visual material.
-    - Uses MTSv3 text detection algorithm, TRBA text detection, and calls to specially trained large multi-modal models, Magi v3 and MangaLMM.
+    - Combined computer vision algorithms with context extraction to generate context guided translations of visual material.
+    - Used MTSv3 text detection algorithm, TRBA text detection, and calls to specially trained large multi-modal models, Magi v3 and MangaLMM.
 
 - California APR Housing Form Filler (2025)
-    - Uses SQL and Python to query a local government planning database and output the housing developments into a format that is accepted by the California State Government’s Annual Progress Report (APR) from.
-    - Uses the Pandas and Numpy libraries to manipulate and organize large amounts of database information
-    - Makes API calls to ChatGPT to format data from the description text field
+    - Used SQL and Python to query a local government planning database and output the housing developments into a format that is accepted by the California State Government’s Annual Progress Report (APR) from.
+    - Used the Pandas and Numpy libraries to manipulate and organize large amounts of database information
+    - Made API calls to ChatGPT to format data from the description text field
 
 
 ### Work Experience
+#### UCSC Basking Engineering
+CSE Tutor
+
+September 2026 - Present
+- Tutoring services to accommodate student needs, in Machine Learning and Artificial Intelligence, covering content in Python and using libraries like Sci-Kit Learn, PyTorch, NumPy, and Pandas.
+
 #### Starbucks
 Barista
 
 November 2022 - Present
-- Maintaining a clean and organized store, communicating with baristas, supervisors, and managers to provide quality service to customers.
+- Providing customer service and working to manage inventory. Maintaining a clean and safe work environment with limited staff and supervision.
 
 #### Maureen O. Khoo, MD, FACOG
 Administrative Assistant
@@ -87,16 +111,11 @@ Food Pantry Volunteer
 September 2022 - September 2023
 - Coordinating with front desk staff, delivery drivers, and other volunteers to ensure ample access to the food pantry for clients. Communicating with clients in English and Mandarin Chinese
 
-#### Baskin Robins
-Closing Shift Lead
-
-May 2015 - August 2016
-- Counting inventory and cleaning the store in addition to serving customers and communicating with coworkers to maintain the store
 
 ### Skills
 Professional Skills: Clear and timely communication, teamwork
 
-Coding Languages:Java (7+ years), Python (5+ years), Javascript (5+ years) , C (5+ years), C# (5+ years), C++ (5+ years), SQL (2 years)
+Coding Languages: Java, Python, JavaScript, C, C#, C++, SQL
 
 Language Proficiency: Chinese (Fluent), Japanese (Proficient)
 
@@ -105,7 +124,7 @@ Language Proficiency: Chinese (Fluent), Japanese (Proficient)
 ### Personal Interests
 I read, and have read, a LOT of manga over the years. It's one of the driving interests that led me to compete in Japan Bowl in high school, pursue translation as a hobby, and (currently) explore manga, sound effects, and the Japanese language as a field of study within NLP and ML.
 - Check out some of the [interesting sound effects](pages/sfx.html) I've spotted in the wild
-    - I've had the chance to [present on detecting and recognizing sound effects in manga](pages/presentation.html) at a poster session at Basking Engineering this past March.
+    - I've had the chance to [present on detecting and recognizing sound effects in manga](pages/presentation.html) at a poster session at Basking Engineering in March 2026.
 - Read some more about my current reading and recommendations [here](pages/manga.html)
 
 
